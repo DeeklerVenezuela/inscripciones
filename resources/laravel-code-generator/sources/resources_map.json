@@ -1,0 +1,47 @@
+[
+    {
+        "model-name": "Provincia",
+        "resource-file": "provincias.json",
+        "table-name": "provincias"
+    },
+    {
+        "model-name": "colegio",
+        "resource-file": "colegios.json",
+        "table-name": "colegios"
+    },
+    {
+        "model-name": "distritosms",
+        "resource-file": "distritosms.json",
+        "table-name": "distritosms"
+    },
+    {
+        "model-name": "frente_movimientos",
+        "resource-file": "frente_movimientos.json",
+        "table-name": "frente_movimientos"
+    },
+    {
+        "model-name": "municipios",
+        "resource-file": "municipios.json",
+        "table-name": "municipios"
+    },
+    {
+        "model-name": "profesion_oficios",
+        "resource-file": "profesion_oficios.json",
+        "table-name": "profesion_oficios"
+    },
+    {
+        "model-name": "recintos",
+        "resource-file": "recintos.json",
+        "table-name": "recintos"
+    },
+    {
+        "model-name": "padrones",
+        "resource-file": "padrones.json",
+        "table-name": "padrones"
+    },
+    {
+        "model-name": "padroninternos",
+        "resource-file": "padroninternos.json",
+        "table-name": "padroninternos"
+    }
+]
